@@ -58,11 +58,6 @@
 - Experimenting with different web technologies and frameworks to build robust web applications.
 
 ### 📫 **Let's Connect:**
-- 
-- [GitHub](#)
-
-*Pursuing a passion for technology and innovation with a focus on AI and web development. Always eager to learn and grow!* 🚀
-
-- [GitHub](#)
-
+- https://github.com/kshitija-kumar
+- https://www.linkedin.com/in/kshitija-k
 *Pursuing a passion for technology and innovation with a focus on AI and web development. Always eager to learn and grow!* 🚀
