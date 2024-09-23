@@ -9,5 +9,5 @@
 - **Currently working on web development using html, css, javascript, react js, next js**
 
 ### 📫 **Let's Connect:**
-- https://github.com/kshitija-kumar
+- https://www.instagram.com/kshitija_kumar/
 - https://www.linkedin.com/in/kshitija-k-a800832a0/
