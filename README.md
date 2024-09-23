@@ -11,5 +11,3 @@
 ### 📫 **Let's Connect:**
 - https://github.com/kshitija-kumar
 - https://www.linkedin.com/in/kshitija-k-a800832a0/
-
-*Pursuing a passion for technology and innovation with a focus on AI and web development. Always eager to learn and grow!* 🚀
